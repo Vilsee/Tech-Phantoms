@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Corenergy </title>
+<script src="script.js"> </script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="navbar">
+<ul class="nav-list">
+<li> <a href="home.html"> HOME </a> </li>
+<li> <a href="about.html"> ABOUT </a> </li>
+<li> <a href="tutorial.html"> TUTORIALS </a> </li>
+</ul>
+<div class="rightNav">
+<p>
+TECH PHANTOMS
+</p>
+</div>
+</nav>
+<section class="firstSection">
+<div class="box-main">
+<div>
+<p class="heading"> CORENERGY </p> <br>
+<p class="tag"> Your personal health trainer. </p>
+</div>
+<br> <br> <br>
+<button class="btn" onclick="details()"> Get Started </button>
+<div class="form" id="form" style="display:none">
+<p>Name:</p>
+<input type="text" required> <br> <br>
+<p>Age:</p>
+<select required>
+<option value="NA">18 - 25 years</option>
+<option value="A">26 - 35 years</option>
+<option value="NSC">36 - 45 years</option>
+<option value="SC">45 years or above</option>
+</select> <br> <br>
+<p>Height (in m):</p>
+<input type="text" id="height" required> <br> <br>
+<p>Weight (in kgs):</p>
+<input type="text" id="weight" required> <br> <br>
+<button id="sub">Submit</button> <br> <br>
+<div id="result"></div>
+<br><br>
+<a
+href="https://drive.google.com/uc?export=download&id=1KbW7CMMSR2A8QGbqn5x2dzEstcnLXwXC"
+download>
+<button id="plan" style="display:none"> Generate Plan </button>
+</a>
+</div>
+</div>
+</section>
+<footer class="ftr">
+Disclaimer: Nothing contained herein to be construed as medical advice. Use of any supplements
+and exercise regimen only be done under the directions and auspices of a licensed physician. The author
+does not claim to be a medical practitioner nor do they purport to issue medical advice.
+</footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Corenergy </title>
+<script src="script.js"> </script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="navbar">
+<ul class="nav-list">
+<li> <a href="home.html"> HOME </a> </li>
+<li> <a href="about.html"> ABOUT </a> </li>
+<li> <a href="tutorial.html"> TUTORIALS </a> </li>
+</ul>
+<div class="rightNav">
+<p>
+TECH PHANTOM
+</p>
+</div>
+</nav>
+<section class="firstSection">
+<div class="box-main">
+<div>
+<p class="heading"> CORENERGY </p> <br>
+<p class="tag"> Your personal health trainer. </p>
+</div>
+</div>
+<section class="tuts">
+<div class="responsive">
+<div class="gallery">
+<a target="_parent" href="https://instagram.com/p/CSCdAv7lxDS/?utm_medium=share_sheet
+">
+<img
+src="https://image.freepik.com/free-photo/young-female-trainer-exercising-gym_1303-27975.jpg"
+alt="HIIT (Full Body Workout)" width="600" height="400">
+</a>
+<div class="desc">HIIT (Full Body Workout)<br> Credits - @women77fit </div>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_parent"
+href="https://www.instagram.com/p/CSHMVP4pE1G/?utm_medium=share_sheet
+">
+<img
+src="https://image.freepik.com/free-photo/full-length-young-sporty-fit-woman-modern-sportive-clothes-exe
+rcising-with-resistance-band-squatting-green-grass-stadium-looking-away-healthy-lifestyle_176532-14886
+.jpg" alt="Full Leg Workout" width="600" height="400">
+</a>
+<div class="desc">Full Leg Workout <br> Credits - @women77fit </div>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_parent" href="https://instagram.com/reel/CSCCEJbggcm/?utm_medium=share_sheet
+">
+<img
+src="https://image.freepik.com/free-photo/female-athlete-exercising-outdoors_23-2149063706.jpg"
+alt="Upper Body Workout" width="600" height="400">
+</a>
+<div class="desc">Upper Body Workout <br> Credits - @women77fit </div>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_parent" href="https://instagram.com/reel/CQ8MICOjv1-/?utm_medium=share_sheet">
+<img
+src="https://image.freepik.com/free-photo/slim-tanned-sporty-girl-wearing-sport-apparel-doing-crunches-w
+orkout-park_172420-5917.jpg" alt="Abdominal Muscles Workout" width="600" height="400">
+</a>
+<div class="desc"> Abdominal Muscles Workout <br> Credits - @women77fit </div>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_parent" href="https://youtu.be/Sl6q1igrxpk">
+<img
+src="https://image.freepik.com/free-photo/studio-shot-slim-girl-claps-hands-does-arm-balance-exercisesworks-
+out-loft-interior-keeps-diet-has-healthy-lifestyle_176532-9735.jpg" alt="Stretching" width="600"
+height="400">
+</a>
+<div class="desc"> Stretching <br> Credits - HASfit </div>
+</div>
+</div>
+<div class="clearfix"></div>
+</section>
+</section>
+<footer class="ftr">
+Disclaimer: Nothing contained herein to be construed as medical advice. Use of any supplements
+and exercise regimen only be done under the directions and auspices of a licensed physician. The author
+does not claim to be a medical practitioner nor do they purport to issue medical advice.
+</footer>
+</body>
+</html>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Corenergy </title>
+<script src="script.js"> </script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="navbar">
+<ul class="nav-list">
+<li> <a href="home.html"> HOME </a> </li>
+<li> <a href="about.html"> ABOUT </a> </li>
+<li> <a href="tutorial.html"> TUTORIALS </a> </li>
+</ul>
+<div class="rightNav">
+<p>
+TECH PHANTOM
+</p>
+</div>
+</nav>
+<section class="firstSection">
+<div class="box-main">
+<div>
+<p class="heading"> CORENERGY </p> <br>
+<p class="tag"> Your personal health trainer. </p>
+</div>
+</div>
+<section class="para">
+<p>
+Corenergy is a health website that has been designed to generate a personalised fitness plan and
+diet for the user on the basis of their BMI.
+<br>
+This is a product of team Tech Phantoms as a part of the hackathon, Tesseract 2021.
+</p>
+</section>
+</section>
+<footer class="ftr">
+Disclaimer: Nothing contained herein to be construed as medical advice. Use of any supplements
+and exercise regimen only be done under the directions and auspices of a licensed physician. The author
+does not claim to be a medical practitioner nor do they purport to issue medical advice.
+</footer>
+</body>
+</html>
+</html>
+
+* {
+margin: 0;
+padding: 0;
+}
+.navbar {
+display: flex;
+background-color: skyblue;
+}
+.nav-list {
+width: 50%;
+display: flex;
+align-items: center;
+}
+.nav-list li {
+list-style: none;
+padding: 23px 26px;
+}
+.nav-list li a {
+text-decoration: none;
+color: black;
+}
+.nav-list li a:hover {
+color: white;
+transition-duration: 0.3s;
+}
+.rightNav {
+width: 50%;
+text-align: right;
+padding: 23px;
+font-family: Arial, Helvetica, sans-serif;
+}
+body {
+background-image: url('https://prod.smassets.net/assets/cms/sm/uploads//health-fitness-trends.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.heading {
+text-align: center;
+color: navy;
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+padding-top: 60px;
+}
+.tag {
+text-align: center;
+color: midnightblue;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.firstSection {
+height: 100vh;
+}
+.btn {
+background-color: dodgerblue;
+color: white;
+padding: 14px 40px;
+border: none;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin: 40px 250px;
+cursor: pointer;
+}
+.btn:hover {
+background-color: white;
+color: rgb(0, 0, 0);
+transition-duration: 0.3s;
+}
+.form {
+justify-content: center;
+padding-left: 39%;
+}
+.para {
+text-align: center;
+font-size: 22px;
+padding-top: 150px;
+}
+.tuts {
+padding-top: 100px
+}
+div.gallery {
+border: 1px solid #ccc;
+}
+div.gallery:hover {
+box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+div.gallery img {
+width: 100%;
+height: auto;
+}
+div.desc {
+padding: 15px;
+text-align: center;
+background-color: white;
+}
+* {
+box-sizing: border-box;
+}
+.responsive {
+padding: 0 6px;
+float: left;
+width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+.responsive {
+width: 49.99999%;
+margin: 6px 0;
+}
+}
+@media only screen and (max-width: 500px) {
+.responsive {
+width: 100%;
+}
+}
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
+.ftr {
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: skyblue;
+text-align: center;
+color: black;
+font-size: 15px;
+font-style: italic;
+}
+
+function details() {
+document.getElementById("form").style.display = 'block';
+}
+window.onload = () => {
+let button = document.querySelector("#sub");
+button.addEventListener("click", calculateBMI);
+};
+function calculateBMI() {
+document.getElementById("plan").style.display = 'block';
+var h = document.getElementById("height").value;
+var w = document.getElementById("weight").value;
+var bmi = w / (h * h).toFixed(2);
+document.getElementById("result").innerHTML = "Your BMI is as follows - " + bmi
+if (bmi < 18.5) result.innerHTML =
+`Under Weight : <span>${bmi}</span>`;
+else if (bmi >= 18.6 && bmi < 25)
+result.innerHTML =
+`Normal : <span>${bmi}</span>`;
+else if (bmi >= 25.1 && bmi < 30)
+result.innerHTML =
+`Overweight : <span>${bmi}</span>`;
+else result.innerHTML =
+`Obese : <span>${bmi}</span>`;
+}
