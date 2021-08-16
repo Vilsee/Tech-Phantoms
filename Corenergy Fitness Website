@@ -28,7 +28,7 @@ TECH PHANTOMS
 <p class="heading"> CORENERGY </p> <br>
 <p class="tag"> Your personal health trainer. </p>
 </div>
-<br> <br> <br>
+<br> <br> 
 <button class="btn" onclick="details()"> Get Started </button>
 <div class="form" id="form" style="display:none">
 <p>Name:</p>
@@ -275,7 +275,7 @@ border: none;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 20px;
-margin: 40px 250px;
+margin: 40px 700px;
 cursor: pointer;
 }
 .btn:hover {
@@ -285,7 +285,7 @@ transition-duration: 0.3s;
 }
 .form {
 justify-content: center;
-padding-left: 39%;
+padding-left: 45%;
 }
 .para {
 text-align: center;
